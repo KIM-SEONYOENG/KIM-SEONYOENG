@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello World! 👋
+## Welcome to KIM-SEONYOENG Git Hub
+
+I am a student studying development. I think it's still not enough, but I'm studying hard. 
+Thank you for visiting.
 
 <!--
 **KIM-SEONYOENG/KIM-SEONYOENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
